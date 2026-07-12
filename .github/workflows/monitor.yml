@@ -1,0 +1,67 @@
+name: Tampa Bay News Monitor
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 24/7; tighten to */20 if desired
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 feedparser
+
+      - name: Run monitor
+        env:
+          MONITOR_IMAP_HOST: ${{ secrets.MONITOR_IMAP_HOST }}
+          MONITOR_IMAP_USER: ${{ secrets.MONITOR_IMAP_USER }}
+          MONITOR_IMAP_PASS: ${{ secrets.MONITOR_IMAP_PASS }}
+        run: python3 tampabay_monitor.py
+
+      - name: Build site
+        run: python3 sitegen.py
+
+      - name: Check for digest
+        id: digest
+        run: |
+          if [ -f email_digest.txt ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+            echo "subject=$(cat email_subject.txt)" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send email digest
+        if: steps.digest.outputs.found == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: ${{ steps.digest.outputs.subject }}
+          to: ${{ secrets.MAIL_TO }}
+          from: Tampa Bay Wire
+          body: file://email_digest.txt
+
+      - name: Commit state, feed & site
+        run: |
+          git config user.name "tb-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json feed.xml items.json docs/ || true
+          git diff --cached --quiet || git commit -m "monitor: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
