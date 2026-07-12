@@ -30,6 +30,8 @@
    "url":"https://www.manateesheriff.com/newsroom","enabled":true},
   {"id":"sarasota_sheriff","name":"Sarasota County Sheriff","type":"page","section":"pressrelease",
    "url":"https://www.sarasotasheriff.org/newsroom.html","enabled":true},
+  {"id":"pinellas_sheriff_news","name":"Pinellas County Sheriff","type":"page","section":"pressrelease",
+   "url":"https://www.pinellassheriff.gov/news","enabled":true},
 
   {"id":"centcom","name":"U.S. Central Command","type":"page","section":"military",
    "url":"https://www.centcom.mil/MEDIA/PRESS-RELEASES/","link_pattern":"(?i)press-release","min_title_len":15},
