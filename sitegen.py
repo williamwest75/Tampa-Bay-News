@@ -9,6 +9,9 @@ import html
 import json
 import shutil
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
+
+EASTERN = ZoneInfo("America/New_York")
 from pathlib import Path
 
 BASE = Path(__file__).parent
@@ -57,7 +60,7 @@ header{padding:34px 0 18px;border-bottom:3px solid var(--ink)}
 .note{font-family:var(--mono);font-size:11px;color:var(--dim);
   padding:6px 0 2px}
 section{margin-top:30px}
-.item{display:grid;grid-template-columns:86px 1fr;gap:14px;
+.item{display:grid;grid-template-columns:118px 1fr;gap:14px;
   padding:13px 0;border-bottom:1px solid var(--rule)}
 .ts{font-family:var(--mono);font-size:11.5px;color:var(--dim);
   padding-top:3px;white-space:nowrap}
@@ -94,8 +97,10 @@ def esc(s):
 
 def fmt_ts(iso):
     try:
-        dt = datetime.fromisoformat(iso)
-        return dt.strftime("%b %d · %H:%M") + " UTC"
+        dt = datetime.fromisoformat(iso).astimezone(EASTERN)
+        out = dt.strftime("%b %d · %I:%M %p")
+        parts = out.split(" · ")
+        return parts[0] + " · " + parts[1].lstrip("0")
     except (ValueError, TypeError):
         return ""
 
@@ -164,7 +169,7 @@ def build():
   <div class="brand">The Tampa Bay <em>Wire</em></div>
   <div class="meta">
     <span><span class="dot">●</span> LIVE MONITOR</span>
-    <span>UPDATED {now.strftime("%b %d, %Y · %H:%M")} UTC</span>
+    <span>UPDATED {now.astimezone(EASTERN).strftime("%b %d, %Y · %I:%M %p").replace(" · 0", " · ")} ET</span>
     <span>8 COUNTIES · {len(items)} ITEMS LOGGED</span>
     <span><a href="feed.xml">RSS</a></span>
   </div>
