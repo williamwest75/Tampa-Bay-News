@@ -107,20 +107,39 @@ def clean_text(s, limit=400):
 
 def parse_rss(source, raw):
     parsed = feedparser.parse(raw)
+    tmpl = source.get("title_template")
+
+    class _Safe(dict):
+        def __missing__(self, k):
+            return ""
+
     items = []
-    for e in parsed.entries[:50]:
-        title = clean_text(e.get("title", ""), 300)
+    for e in parsed.entries[:200 if tmpl else 50]:
+        if tmpl:
+            vals = _Safe({k: str(e.get(k, "")) for k in e.keys()})
+            title = clean_text(tmpl.format_map(vals), 300).strip(" —-")
+            link = str(e.get(source.get("link_field", "link"), "")) \
+                or source.get("public_url", "")
+            guid = str(e.get(source.get("id_field", "id"), "")) or title
+            summary = clean_text(
+                str(e.get(source.get("summary_field", ""), "")), 200)
+        else:
+            title = clean_text(e.get("title", ""), 300)
+            link = e.get("link", "")
+            guid = e.get("id", "") or link
+            summary = clean_text(e.get("summary", ""))
         if not title:
             continue
-        link = e.get("link", "")
-        guid = e.get("id", "") or link
         images = []
         for enc in e.get("media_thumbnail", []) or []:
             if enc.get("url"):
                 images.append(enc["url"])
-        items.append({"key": item_key(guid, title), "title": title,
-                      "link": link, "summary": clean_text(e.get("summary", "")),
-                      "published": e.get("published", "") or e.get("updated", ""),
+        items.append({"key": item_key(guid if tmpl else (guid or link),
+                                      f"{source['id']}|{guid}" if tmpl
+                                      else title),
+                      "title": title, "link": link, "summary": summary,
+                      "published": e.get("published", "") or
+                      e.get("updated", ""),
                       "images": images[:1]})
     return items
 
@@ -296,6 +315,85 @@ def ingest_imap(source):
     return items
 
 
+def parse_arcgis(source):
+    """ArcGIS MapServer/FeatureServer layer (HCSO, Tampa PD/Fire, etc.).
+
+    Config:
+      url        — layer endpoint, e.g. .../CallsForService/MapServer/0
+      field_map  — {"id": ..., "type": ..., "location": ..., "time": ...}
+                   (names matched case-insensitively; missing ones skipped)
+      where      — optional filter (default "1=1")
+      max_records — default 150
+    Self-discovers the layer's fields; if configured names don't match,
+    logs the available field names to aid configuration.
+    """
+    base = source["url"].rstrip("/")
+    hdrs = {"User-Agent": USER_AGENT}
+    meta = requests.get(base, params={"f": "json"},
+                        headers=hdrs, timeout=TIMEOUT).json()
+    if "error" in meta:
+        raise RuntimeError(f"layer metadata error: {meta['error']}")
+    fields = [f["name"] for f in meta.get("fields", [])]
+    lower = {f.lower(): f for f in fields}
+    print(f"[info] {source['id']}: layer '{meta.get('name', '?')}' "
+          f"({len(fields)} fields)", file=sys.stderr)
+
+    fmap = source.get("field_map", {})
+    resolved, missing = {}, []
+    for role, want in fmap.items():
+        real = lower.get(str(want).lower())
+        if real:
+            resolved[role] = real
+        else:
+            missing.append(want)
+    if missing:
+        print(f"[warn] {source['id']}: field(s) not found: {missing}; "
+              f"available: {fields}", file=sys.stderr)
+
+    q = {"f": "json", "where": source.get("where", "1=1"),
+         "outFields": "*", "returnGeometry": "false",
+         "resultRecordCount": source.get("max_records", 150)}
+    data = requests.get(base + "/query", params=q,
+                        headers=hdrs, timeout=TIMEOUT).json()
+    if "error" in data:
+        raise RuntimeError(f"query error: {data['error']}")
+
+    def fmt_val(role, val):
+        if val is None:
+            return ""
+        if role == "time" and isinstance(val, (int, float)) and val > 1e11:
+            try:
+                return datetime.fromtimestamp(
+                    val / 1000, tz=timezone.utc).strftime("%b %d %H:%M UTC")
+            except (ValueError, OSError):
+                return str(val)
+        return str(val).strip()
+
+    template = source.get("title_template", "{type} — {location}")
+    items = []
+    for feat in data.get("features", [])[:150]:
+        attrs = feat.get("attributes", {})
+        vals = {role: fmt_val(role, attrs.get(real))
+                for role, real in resolved.items()}
+        title = clean_text(template.format(
+            **{k: vals.get(k, "") for k in
+               ("id", "type", "location", "time", "agency")}), 300
+        ).strip(" —-")
+        if not title:  # fallback: join first few non-empty string attrs
+            bits = [str(v).strip() for v in attrs.values()
+                    if isinstance(v, str) and v.strip()][:4]
+            title = clean_text(" — ".join(bits), 300)
+        if not title:
+            continue
+        basis = vals.get("id") or json.dumps(attrs, sort_keys=True)
+        items.append({"key": item_key("", f"{source['id']}|{basis}"),
+                      "title": title,
+                      "link": source.get("public_url", ""),
+                      "summary": vals.get("time", ""),
+                      "published": "", "images": []})
+    return items
+
+
 HANDLERS = {"rss": parse_rss, "page": parse_page,
             "json_api": parse_json_api, "html_table": parse_html_table}
 
@@ -435,6 +533,8 @@ def main():
         try:
             if stype == "imap":
                 items = ingest_imap(source)
+            elif stype == "arcgis":
+                items = parse_arcgis(source)
             elif stype in HANDLERS:
                 items = HANDLERS[stype](source, fetch(source["url"]))
             else:
