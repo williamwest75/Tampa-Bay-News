@@ -3,7 +3,28 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sat, 15 Aug 2026 21:15:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 21:43:46 +0000</lastBuildDate>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — 3415 W HILLSBOROUGH AVE</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=495217&amp;Y=1331845</link>
+<description>8/15/2026 4:38:07 PM</description>
+<guid isPermaLink="false">6870c5228781ea95</guid>
+<pubDate>Sat, 15 Aug 2026 21:43:46 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — 3650 MIDTOWN DR</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=493993&amp;Y=1315880</link>
+<description>8/15/2026 4:34:14 PM</description>
+<guid isPermaLink="false">52a5f8e94d661e16</guid>
+<pubDate>Sat, 15 Aug 2026 21:43:46 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — N 50TH ST / ADAMO DR</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=526493&amp;Y=1315502</link>
+<description>8/15/2026 4:15:33 PM</description>
+<guid isPermaLink="false">8ec86d03a8bd5917</guid>
+<pubDate>Sat, 15 Aug 2026 21:43:46 +0000</pubDate>
+</item>
 <item>
 <title>[Sarasota Herald-Tribune] After $1.04 billion Powerball win, results, numbers for Saturday, Aug. 15</title>
 <link>https://www.heraldtribune.com/story/news/2026/08/15/powerball-winner-numbers-results-saturday-august-florida/91307975007/</link>
@@ -1203,24 +1224,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 8600 BLOCK N NEBRASKA AVE</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=28</link>
 <guid isPermaLink="false">6c68f6c10823aa07</guid>
-<pubDate>Sat, 15 Aug 2026 17:43:39 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 3900 BLOCK E HILLSBOROUGH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=62</link>
-<guid isPermaLink="false">bc63b068e3077dfe</guid>
-<pubDate>Sat, 15 Aug 2026 17:43:39 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] FOLLOW UP INVESTIGATION — E TWIGGS ST / N MARION ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=143</link>
-<guid isPermaLink="false">c48b55fcd50dbcd9</guid>
-<pubDate>Sat, 15 Aug 2026 17:43:39 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — S DALE MABRY HWY / W BAY VISTA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=181</link>
-<guid isPermaLink="false">f6ec54dda9ce1e7a</guid>
 <pubDate>Sat, 15 Aug 2026 17:43:39 +0000</pubDate>
 </item>
 </channel></rss>
