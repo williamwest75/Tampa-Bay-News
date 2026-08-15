@@ -1,5 +1,19 @@
 [
  {
+  "key": "4b67db12804f66ce",
+  "title": "20-year-old helps erase $1.2M in medical debt for 1,148 Ohio residents",
+  "link": "https://www.tampabay28.com/politics/economy/20-year-old-helps-erase-1-2m-in-medical-debt-for-1-148-ohio-residents",
+  "summary": "For 1,148 Cuyahoga County residents that were crippled with medical debt, congratulations, it's been erased!",
+  "source": "ABC Action News / Tampa Bay 28",
+  "section": "news",
+  "tag": "",
+  "watchlist_hits": [],
+  "breaking": false,
+  "images": [],
+  "first_seen": "2026-08-15T14:16:37.138378+00:00",
+  "published": "Sat, 15 Aug 2026 14:02:19 GMT"
+ },
+ {
   "key": "aa6cb9d42da53444",
   "title": "RESID/COMMERIAL ALARM \u2014 4000 BLOCK E PALIFOX ST",
   "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=87",
@@ -6986,19 +7000,5 @@
   "images": [],
   "first_seen": "2026-08-15T03:11:04.639734+00:00",
   "published": "Sat, 15 Aug 2026 02:36:12 GMT"
- },
- {
-  "key": "f9afdc90382bda99",
-  "title": "JUVENILE CURFEW LAW \u2014 10900 BLOCK N ANNETTE AVE",
-  "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=3",
-  "summary": "",
-  "source": "Tampa Police \u2014 Calls For Service",
-  "section": "cad",
-  "tag": "[TPD]",
-  "watchlist_hits": [],
-  "breaking": false,
-  "images": [],
-  "first_seen": "2026-08-15T02:12:41.890501+00:00",
-  "published": ""
  }
 ]
