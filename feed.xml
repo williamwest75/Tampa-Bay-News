@@ -3,7 +3,76 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sat, 15 Aug 2026 08:21:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 08:53:27 +0000</lastBuildDate>
+<item>
+<title>[ABC7 Suncoast (WWSB)] First Alert Weather Day - Hot and Humid</title>
+<link>https://www.mysuncoast.com/2026/08/15/first-alert-weather-day-hot-humid/</link>
+<guid isPermaLink="false">1d55c1109e2155cb</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Beach &amp; Boating Forecast Saturday</title>
+<link>https://www.mysuncoast.com/2026/08/15/beach-boating-forecast-saturday/</link>
+<guid isPermaLink="false">b44636583d841239</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Farmers Markets Saturday Forecast</title>
+<link>https://www.mysuncoast.com/2026/08/15/farmers-markets-saturday-forecast/</link>
+<guid isPermaLink="false">e6fdc081cdb7a58c</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — E 22ND AVE / E 23RD AVE</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=515511&amp;Y=1322632</link>
+<description>8/15/2026 3:22:10 AM</description>
+<guid isPermaLink="false">3dfb6afe302eb3f6</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — I275 / N ROME AVE</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=502273&amp;Y=1316924</link>
+<description>8/15/2026 3:22:05 AM</description>
+<guid isPermaLink="false">fb752970e4c38a99</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — E 23RD AVE / N 22ND ST</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=515837&amp;Y=1322614</link>
+<description>8/15/2026 3:20:51 AM</description>
+<guid isPermaLink="false">3556a6ee6897255f</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 2800 BLOCK E HILLSBOROUGH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=61</link>
+<guid isPermaLink="false">62162a69e9d494c8</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 10900 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=3</link>
+<guid isPermaLink="false">afeebc6a87089fa0</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 4500 BLOCK W HILLSBOROUGH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=64</link>
+<guid isPermaLink="false">1ee452e5ba1d5bec</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 8600 BLOCK N DIXON AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=28</link>
+<guid isPermaLink="false">81d5b817e7b1518a</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 3300 BLOCK W HILLSBOROUGH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=66</link>
+<guid isPermaLink="false">f6c50c224c3c2db2</guid>
+<pubDate>Sat, 15 Aug 2026 08:53:27 +0000</pubDate>
+</item>
 <item>
 <title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — I275 / E BUSCH BLVD</title>
 <link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=509417&amp;Y=1344961</link>
@@ -1142,75 +1211,5 @@
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=124</link>
 <guid isPermaLink="false">e4e8a780f61eb2de</guid>
 <pubDate>Sat, 15 Aug 2026 04:02:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] JUVENILE CURFEW LAW — 18900 BLOCK PORTOFINO DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=243</link>
-<guid isPermaLink="false">ad7067be7f2f7178</guid>
-<pubDate>Sat, 15 Aug 2026 04:02:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] LOST/FOUND PROPERTY — N HOWARD AVE / W FIG ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=154</link>
-<guid isPermaLink="false">5abffaf302a44423</guid>
-<pubDate>Sat, 15 Aug 2026 04:02:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] JUVENILE CURFEW LAW — 4800 BLOCK W SAN JOSE ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=168</link>
-<guid isPermaLink="false">95bc2b03f421cf3d</guid>
-<pubDate>Sat, 15 Aug 2026 04:02:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — E TYLER ST / N FRANKLIN ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=140</link>
-<guid isPermaLink="false">2bf8e286ce96e2d1</guid>
-<pubDate>Sat, 15 Aug 2026 04:02:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N LOIS AVE / W HILLSBOROUGH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=64</link>
-<guid isPermaLink="false">3e16c6bd61641752</guid>
-<pubDate>Sat, 15 Aug 2026 04:02:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] JUVENILE CURFEW LAW — 1900 BLOCK E 29TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=97</link>
-<guid isPermaLink="false">0e5de088015e6a9f</guid>
-<pubDate>Sat, 15 Aug 2026 04:02:22 +0000</pubDate>
-</item>
-<item>
-<title>[ABC Action News / Tampa Bay 28] Pasco County 10-year-old struck by 2 vehicles transferred to skilled nursing facility</title>
-<link>https://www.tampabay28.com/news/local-news/pasco-county-10-year-old-struck-by-two-vehicles-transferred-to-skilled-nursing-facility</link>
-<description>Asher Thompson was hit by two vehicles while riding his bicycle on State Road 52 in June. His mother says he was transferred to a skilled nursing facility as he recovers.</description>
-<guid isPermaLink="false">840a961d4f765027</guid>
-<pubDate>Sat, 15 Aug 2026 02:36:12 GMT</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — S JEFFERSON ST / E BROREIN ST</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=510261&amp;Y=1312979</link>
-<description>8/14/2026 9:37:56 PM</description>
-<guid isPermaLink="false">40a34d4cf23f3d5c</guid>
-<pubDate>Sat, 15 Aug 2026 03:11:04 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — 5010 W KENNEDY BLVD</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=485330&amp;Y=1312874</link>
-<description>8/14/2026 9:35:42 PM</description>
-<guid isPermaLink="false">5cabc7140f4b6414</guid>
-<pubDate>Sat, 15 Aug 2026 03:11:04 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — S HOWARD AVE / W HORATIO ST</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=500221&amp;Y=1311143</link>
-<description>8/14/2026 9:11:10 PM</description>
-<guid isPermaLink="false">384b06d9d9703e1c</guid>
-<pubDate>Sat, 15 Aug 2026 03:11:04 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E HILLSBOROUGH AVE / N 22ND ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=72</link>
-<guid isPermaLink="false">22e57b1ab6f84e16</guid>
-<pubDate>Sat, 15 Aug 2026 03:11:04 +0000</pubDate>
 </item>
 </channel></rss>
