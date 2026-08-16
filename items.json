@@ -1,5 +1,22 @@
 [
  {
+  "key": "c246102bceaeded6",
+  "title": "1 dead in Hawaii as Lala, now a tropical storm, moves west",
+  "link": "https://www.tampabay28.com/science-and-tech/natural-disasters/1-dead-in-hawaii-as-lala-now-a-tropical-storm-moves-west",
+  "summary": "One person is dead and tens of thousands have lost power after Hurricane Lala lashed parts of Hawaii overnight, before weakening slightly Sunday morning to a tropical storm.",
+  "source": "ABC Action News / Tampa Bay 28",
+  "section": "news",
+  "tag": "",
+  "watchlist_hits": [
+   "hurricane",
+   "tropical storm"
+  ],
+  "breaking": false,
+  "images": [],
+  "first_seen": "2026-08-16T14:17:26.014997+00:00",
+  "published": "Sun, 16 Aug 2026 13:54:19 GMT"
+ },
+ {
   "key": "cd8b2c249112bc66",
   "title": "VEHICLE STOP/TRAFFIC \u2014 S WESTLAND AVE / W SWANN AVE",
   "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=166",
@@ -6977,20 +6994,6 @@
   "key": "78ce3f6036353b0d",
   "title": "VEHICLE STOP/TRAFFIC \u2014 E OSBORNE AVE / N 24TH ST",
   "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=85",
-  "summary": "",
-  "source": "Tampa Police \u2014 Calls For Service",
-  "section": "cad",
-  "tag": "[TPD]",
-  "watchlist_hits": [],
-  "breaking": false,
-  "images": [],
-  "first_seen": "2026-08-16T03:26:25.530188+00:00",
-  "published": ""
- },
- {
-  "key": "bf707e5d5d08b013",
-  "title": "VEHICLE STOP/TRAFFIC \u2014 W BAY TO BAY BLVD / S MACDILL AVE",
-  "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=175",
   "summary": "",
   "source": "Tampa Police \u2014 Calls For Service",
   "section": "cad",

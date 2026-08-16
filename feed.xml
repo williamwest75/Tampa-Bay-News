@@ -3,7 +3,14 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sun, 16 Aug 2026 13:51:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 14:17:26 +0000</lastBuildDate>
+<item>
+<title>[WATCHLIST: hurricane, tropical storm] [ABC Action News / Tampa Bay 28] 1 dead in Hawaii as Lala, now a tropical storm, moves west</title>
+<link>https://www.tampabay28.com/science-and-tech/natural-disasters/1-dead-in-hawaii-as-lala-now-a-tropical-storm-moves-west</link>
+<description>One person is dead and tens of thousands have lost power after Hurricane Lala lashed parts of Hawaii overnight, before weakening slightly Sunday morning to a tropical storm.</description>
+<guid isPermaLink="false">c246102bceaeded6</guid>
+<pubDate>Sun, 16 Aug 2026 13:54:19 GMT</pubDate>
+</item>
 <item>
 <title>[ABC7 Suncoast (WWSB)] First Alert Weather Day – Hot Weather Continues!</title>
 <link>https://www.mysuncoast.com/2026/08/16/first-alert-weather-day-hot-weather-continues/</link>
@@ -1209,13 +1216,6 @@
 <link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=509945&amp;Y=1322954</link>
 <description>8/16/2026 12:28:37 AM</description>
 <guid isPermaLink="false">70255b63185d3d19</guid>
-<pubDate>Sun, 16 Aug 2026 06:30:56 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — E SHADOWLAWN AVE / N 34TH ST</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=519855&amp;Y=1330703</link>
-<description>8/16/2026 12:19:10 AM</description>
-<guid isPermaLink="false">64e3d819e1c5950f</guid>
 <pubDate>Sun, 16 Aug 2026 06:30:56 +0000</pubDate>
 </item>
 </channel></rss>
