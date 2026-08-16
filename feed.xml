@@ -3,7 +3,20 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sun, 16 Aug 2026 20:45:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 21:14:44 +0000</lastBuildDate>
+<item>
+<title>[ABC Action News / Tampa Bay 28] Clearwater house fire under investigation after man injured</title>
+<link>https://www.tampabay28.com/news/region-pinellas/clearwater-house-fire-under-investigation-after-man-injured</link>
+<description>Fire crews responded to a house fire in Clearwater after smoke was seen coming from a home, and one man required medical treatment.</description>
+<guid isPermaLink="false">9f78b9d5846a4ff5</guid>
+<pubDate>Sun, 16 Aug 2026 21:07:00 GMT</pubDate>
+</item>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Manatee County Sheriff’s Office announces off-duty death of Sgt. Corey Griffin</title>
+<link>https://www.mysuncoast.com/2026/08/16/manatee-county-sheriffs-office-announces-off-duty-death-sgt-corey-griffin/</link>
+<guid isPermaLink="false">07bfd40c07c5886f</guid>
+<pubDate>Sun, 16 Aug 2026 21:14:44 +0000</pubDate>
+</item>
 <item>
 <title>[BREAKING] [ABC7 Suncoast (WWSB)] BREAKING: MLB legend Tommy John dies at his Bradenton home at 83</title>
 <link>https://www.mysuncoast.com/2026/08/16/mlb-legend-tommy-john-dies-his-bradenton-home-83/</link>
@@ -1206,18 +1219,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E HILLSBOROUGH AVE / N 22ND ST</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=72</link>
 <guid isPermaLink="false">fdf0992877f79e4b</guid>
-<pubDate>Sun, 16 Aug 2026 16:48:57 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISABLED VEHICLE — N DALE MABRY HWY / W COLUMBUS DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=120</link>
-<guid isPermaLink="false">b965eb1e3dbdb517</guid>
-<pubDate>Sun, 16 Aug 2026 16:48:57 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 10900 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=3</link>
-<guid isPermaLink="false">75c6c0ef504afbc0</guid>
 <pubDate>Sun, 16 Aug 2026 16:48:57 +0000</pubDate>
 </item>
 </channel></rss>
