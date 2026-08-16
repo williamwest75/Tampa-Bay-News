@@ -3,7 +3,76 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sun, 16 Aug 2026 08:22:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 08:55:20 +0000</lastBuildDate>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Heat Advisory Continues – First Alert Weather Day Sunday</title>
+<link>https://www.mysuncoast.com/2026/08/16/heat-advisory-continues-first-alert-weather-day-sunday/</link>
+<guid isPermaLink="false">11bf98f0b125dfe2</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Sunday Beach and Boating Forecast</title>
+<link>https://www.mysuncoast.com/2026/08/16/sunday-beach-boating-forecast/</link>
+<guid isPermaLink="false">ef18dd21490aa154</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Farmers Market Sunday Forecast</title>
+<link>https://www.mysuncoast.com/2026/08/16/farmers-market-sunday-forecast/</link>
+<guid isPermaLink="false">1e4b37c1d0b80252</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — N 39TH ST / ADAMO DR</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=522010&amp;Y=1316697</link>
+<description>8/16/2026 3:34:32 AM</description>
+<guid isPermaLink="false">6ace67f1c945afd3</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] HIT AND RUN — N TAMPA ST / E TYLER ST</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=507424&amp;Y=1315482</link>
+<description>8/16/2026 3:20:54 AM</description>
+<guid isPermaLink="false">94a04f8dda531bee</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] HIT AND RUN — 1732 N 15TH ST</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=513150&amp;Y=1318350</link>
+<description>8/16/2026 3:12:10 AM</description>
+<guid isPermaLink="false">54175b6bdd97001f</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 2000 BLOCK E WATERS AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=39</link>
+<guid isPermaLink="false">9774ec04e7af7179</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RECKLESS DRIVING — 7700 BLOCK W COURTNEY CAMPBELL CSWY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=117</link>
+<guid isPermaLink="false">89c33ef45ce2d991</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 1700 BLOCK E FOWLER AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=5</link>
+<guid isPermaLink="false">0ad69682b7e059d1</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] PETTY THEFT — 300 BLOCK E FRANCES AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=116</link>
+<guid isPermaLink="false">078f7a060d182632</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 11200 BLOCK N 22ND ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=6</link>
+<guid isPermaLink="false">5f42f48bf0e46834</guid>
+<pubDate>Sun, 16 Aug 2026 08:55:20 +0000</pubDate>
+</item>
 <item>
 <title>[Sarasota Herald-Tribune] Major Sarasota attraction begins next phase of $60.9M expansion</title>
 <link>https://www.heraldtribune.com/story/news/local/sarasota/2026/08/16/major-sarasota-attraction-begins-next-phase-of-60-9m-expansion/91306416007/</link>
@@ -1144,72 +1213,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E 7TH AVE / N 15TH ST</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=127</link>
 <guid isPermaLink="false">591dd037aec18fe2</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 9200 BLOCK N FLORIDA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=19</link>
-<guid isPermaLink="false">12bf573b4af42f99</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N 12TH ST / E RICHMERE ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=20</link>
-<guid isPermaLink="false">d5a479a788d16385</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1800 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">e30ea88fdc1feb6f</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1900 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">43602870c8f1e623</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — TAMPA PALMS BLVD / BRUCE B DOWNS BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=222</link>
-<guid isPermaLink="false">9386fc9288bf4e34</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1900 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">c506fd4cb9aa19d9</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 2400 BLOCK E FOWLER AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=6</link>
-<guid isPermaLink="false">acd37b3b1c534dc2</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 2000 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">6763ce57d2137f5c</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — 3700 BLOCK W GANDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=188</link>
-<guid isPermaLink="false">8bfdeef6f41fa194</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 8600 BLOCK N 16TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=30</link>
-<guid isPermaLink="false">cd310fd52c599b01</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 3300 BLOCK W HORATIO ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=158</link>
-<guid isPermaLink="false">f36840292386baac</guid>
 <pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
 </item>
 </channel></rss>
