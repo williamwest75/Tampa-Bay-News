@@ -3,7 +3,37 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sun, 16 Aug 2026 09:50:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 10:17:33 +0000</lastBuildDate>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 9700 BLOCK E CASTLE CT</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=20</link>
+<guid isPermaLink="false">2fbc594de89c5414</guid>
+<pubDate>Sun, 16 Aug 2026 10:17:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 2400 BLOCK E HENRY AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=61</link>
+<guid isPermaLink="false">179058a46fa886fa</guid>
+<pubDate>Sun, 16 Aug 2026 10:17:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] AIDED CASE — GRID ONLY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=194</link>
+<guid isPermaLink="false">3520fa215a0b824a</guid>
+<pubDate>Sun, 16 Aug 2026 10:17:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 17600 BLOCK BRUCE B DOWNS BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=250</link>
+<guid isPermaLink="false">41412f56f52b729a</guid>
+<pubDate>Sun, 16 Aug 2026 10:17:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 2400 BLOCK E 2ND AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=129</link>
+<guid isPermaLink="false">8bfb3598c8186fa3</guid>
+<pubDate>Sun, 16 Aug 2026 10:17:33 +0000</pubDate>
+</item>
 <item>
 <title>[Sarasota Herald-Tribune] Manatee Chamber program names new leadership class</title>
 <link>https://www.heraldtribune.com/story/news/local/2026/08/16/vin-mannix-new-leadership-manatee-class-members-announced/90831591007/</link>
@@ -1184,36 +1214,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1600 BLOCK E 8TH AVE</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
 <guid isPermaLink="false">340dbbc2d3e1b1da</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1600 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">c23e1248fbc0d3e0</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1600 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">46d0793294b8a2e6</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1600 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">9231925fee841838</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1600 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">3b99f7d38a74690c</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — N LINCOLN AVE / W CYPRESS ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=136</link>
-<guid isPermaLink="false">8fee67d9af1f061f</guid>
 <pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
 </item>
 </channel></rss>
