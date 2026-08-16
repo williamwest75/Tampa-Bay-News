@@ -3,7 +3,44 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sun, 16 Aug 2026 10:17:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 10:47:26 +0000</lastBuildDate>
+<item>
+<title>[BREAKING] [ABC Action News / Tampa Bay 28] Police searching for suspect in fatal New Port Richey machete stabbing: NPRPD</title>
+<link>https://www.tampabay28.com/news/region-pasco/police-searching-for-suspect-in-fatal-new-port-richey-machete-stabbing-nprpd</link>
+<description>Police are searching for a man accused of killing another man during a stabbing in New Port Richey on Sunday, according to the New Port Richey Police Department (NPRPD).</description>
+<guid isPermaLink="false">f80de453371cfaea</guid>
+<pubDate>Sun, 16 Aug 2026 10:15:46 GMT</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] ASSAULT/BATTERY — 3800 BLOCK E 32ND AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=99</link>
+<guid isPermaLink="false">afac24b0bca9509a</guid>
+<pubDate>Sun, 16 Aug 2026 10:47:26 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 14100 BLOCK RIVEREDGE DR</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=221</link>
+<guid isPermaLink="false">6bb1164c1168d12a</guid>
+<pubDate>Sun, 16 Aug 2026 10:47:26 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 2500 BLOCK N 50TH ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=131</link>
+<guid isPermaLink="false">cd82e428534033d6</guid>
+<pubDate>Sun, 16 Aug 2026 10:47:26 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] STOLEN VEHICLE — 2500 BLOCK E 31ST AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=98</link>
+<guid isPermaLink="false">9d6cbf487effdd46</guid>
+<pubDate>Sun, 16 Aug 2026 10:47:26 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 600 BLOCK N ASHLEY DR</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=143</link>
+<guid isPermaLink="false">11fbd2a029f6c815</guid>
+<pubDate>Sun, 16 Aug 2026 10:47:26 +0000</pubDate>
+</item>
 <item>
 <title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 9700 BLOCK E CASTLE CT</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=20</link>
@@ -1178,42 +1215,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — TAMPA PALMS BLVD / BRUCE B DOWNS BLVD</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=222</link>
 <guid isPermaLink="false">8e45991af78d4ac9</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — I275 / N HIMES AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=136</link>
-<guid isPermaLink="false">52e5f61bece2ea2c</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 9200 BLOCK N FLORIDA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=19</link>
-<guid isPermaLink="false">b0f5344021393140</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N PIERCE ST / E KENNEDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=144</link>
-<guid isPermaLink="false">fa6af6dd7c992183</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1500 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">3ded24d99ee917e5</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1500 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">548867fc5f379497</guid>
-<pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1600 BLOCK E 8TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
-<guid isPermaLink="false">340dbbc2d3e1b1da</guid>
 <pubDate>Sun, 16 Aug 2026 04:59:05 +0000</pubDate>
 </item>
 </channel></rss>
