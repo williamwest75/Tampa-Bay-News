@@ -3,7 +3,435 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sun, 16 Aug 2026 23:42:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 00:57:10 +0000</lastBuildDate>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — 1313 N TAMPA ST</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=507494&amp;Y=1316646</link>
+<description>8/16/2026 6:51:46 PM</description>
+<guid isPermaLink="false">beac4a35651a7c5c</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — S FRANKLIN ST / CHANNELSIDE DR</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=509046&amp;Y=1312072</link>
+<description>8/16/2026 6:47:07 PM</description>
+<guid isPermaLink="false">3fb7cd0d2c7f4155</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7500 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
+<guid isPermaLink="false">add9ee5fad2158e3</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7500 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=45</link>
+<guid isPermaLink="false">d5b44d01b7873374</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 4600 BLOCK W NORTH B ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=150</link>
+<guid isPermaLink="false">7b4c8295aa081918</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7400 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
+<guid isPermaLink="false">d32074188e8b2f86</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7700 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=45</link>
+<guid isPermaLink="false">53916b8609f5fff3</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7400 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=45</link>
+<guid isPermaLink="false">ca3a230f49656f1d</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 3600 BLOCK N AV REPUBLICA DE CUBA</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=96</link>
+<guid isPermaLink="false">8b5ec6f0b8619a4e</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — SELMON EXPY / W BAY TO BAY BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=175</link>
+<guid isPermaLink="false">e1eb29142edf15be</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7700 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
+<guid isPermaLink="false">0349c57289c747d9</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7100 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=45</link>
+<guid isPermaLink="false">e1df7899f0be6eed</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7800 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
+<guid isPermaLink="false">b4d81a2ec5ce02cf</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N 26TH ST / E 99TH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=22</link>
+<guid isPermaLink="false">11ff5db4aa5add2a</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7100 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
+<guid isPermaLink="false">8e574784fba1933a</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] FOLLOW UP INVESTIGATION — 400 BLOCK N FRANKLIN ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=143</link>
+<guid isPermaLink="false">a67caef5c7c867cd</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7100 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
+<guid isPermaLink="false">8aab808d3569351b</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 6900 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=45</link>
+<guid isPermaLink="false">93012000277ae405</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] ASSAULT/BATTERY — 5000 BLOCK E BUSCH BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=24</link>
+<guid isPermaLink="false">c43a03387a7a8b25</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7100 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
+<guid isPermaLink="false">a02d16eddfba2659</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 3800 BLOCK N 22ND ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=97</link>
+<guid isPermaLink="false">1e21bf48045db05a</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 7000 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=45</link>
+<guid isPermaLink="false">5e858e408a7fd08a</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 17900 BLOCK BIMINI ISLE CT</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=254</link>
+<guid isPermaLink="false">aaa5a259df8c52d2</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] SUSPICIOUS PERSON — 4000 BLOCK W OBISPO ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=174</link>
+<guid isPermaLink="false">bf36d9e4d490166a</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — W VILLA ROSA PARK / BAYSHORE BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=185</link>
+<guid isPermaLink="false">4423e9259d07db2a</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — SELMON EXPY / E KENNEDY BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=145</link>
+<guid isPermaLink="false">79ff31b506615992</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MENTALLY ILL PERSON — GRID ONLY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=110</link>
+<guid isPermaLink="false">4865f19c73f24bdb</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 900 BLOCK E HILLSBOROUGH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=59</link>
+<guid isPermaLink="false">80653e090003fbfa</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 4500 BLOCK W SPRUCE ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=119</link>
+<guid isPermaLink="false">d99a0c4dbfb2f696</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 1300 BLOCK E FOWLER AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=4</link>
+<guid isPermaLink="false">b574bf59aba26c27</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MENTALLY ILL PERSON — GRID ONLY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=117</link>
+<guid isPermaLink="false">afacbdd2d478c398</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 5100 BLOCK ADAMO DR</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=135</link>
+<guid isPermaLink="false">8db87e4b4306b2f4</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — 3400 BLOCK E BUSCH BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=31</link>
+<guid isPermaLink="false">d507b47e0a350d27</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 4500 BLOCK RIVER FRONT LN</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=80</link>
+<guid isPermaLink="false">feab12138ee7bb0a</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] FORGERY/BAD CHECKS — 2900 BLOCK W BAY TO BAY BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=179</link>
+<guid isPermaLink="false">7710f7c7ddf2b3a5</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 9900 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=20</link>
+<guid isPermaLink="false">40d273aa23e8565d</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 2200 BLOCK E FOWLER AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=6</link>
+<guid isPermaLink="false">6f67e941935b4eff</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] FOLLOW UP INVESTIGATION — 1000 BLOCK W KENNEDY BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=161</link>
+<guid isPermaLink="false">8b4664d13ba04e5c</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E 109TH AVE / N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=11</link>
+<guid isPermaLink="false">9c81cb929610d8b3</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 6700 BLOCK S CORTEZ AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=195</link>
+<guid isPermaLink="false">b647d7e5b487ec69</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — W GANDY BLVD / BRIDGE ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=186</link>
+<guid isPermaLink="false">a7d6c4cd6ef26d4d</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 6200 BLOCK S DALE MABRY HWY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=191</link>
+<guid isPermaLink="false">3f3003e518856cb5</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 3700 BLOCK N 50TH ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=101</link>
+<guid isPermaLink="false">070b9e1ddb800e25</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 5100 BLOCK S CLARICE CT</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=188</link>
+<guid isPermaLink="false">3abeef5f713a3060</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E 113TH AVE / N 50TH ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=8</link>
+<guid isPermaLink="false">d336cdc8e8bcce9e</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DOMESTIC DISPUTE — 100 BLOCK HOBOKEN AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=19</link>
+<guid isPermaLink="false">7930387ab1c90f9b</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] AGG ASSAULT/BATTERY — 4500 BLOCK E HILLSBOROUGH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=75</link>
+<guid isPermaLink="false">7365e041c9039023</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] FOLLOW UP INVESTIGATION — 400 BLOCK N FRANKLIN ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=143</link>
+<guid isPermaLink="false">1c687456674fa8b3</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 6700 BLOCK N ROME AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=48</link>
+<guid isPermaLink="false">b6513fd8f4ebd2e6</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MENTALLY ILL PERSON — GRID ONLY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=64</link>
+<guid isPermaLink="false">0e7289fac551bdfd</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RECKLESS DRIVING — 2500 BLOCK E FOWLER AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=6</link>
+<guid isPermaLink="false">8b0ea5c5fbb87496</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 18900 BLOCK DUQUESNE DR</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=241</link>
+<guid isPermaLink="false">7c561c754009e2e7</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RECKLESS DRIVING — E SLIGH AVE / N 22ND ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=53</link>
+<guid isPermaLink="false">754d08e6cf5283a0</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MENTALLY ILL PERSON — GRID ONLY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=121</link>
+<guid isPermaLink="false">493837fd56556b6c</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 3700 BLOCK E LAKE AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=99</link>
+<guid isPermaLink="false">2c10fea40d1942f4</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] PROJECT — 3500 BLOCK N 22ND ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=98</link>
+<guid isPermaLink="false">db780a7eaf54c1ae</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E BUSCH BLVD / MCKINLEY DR</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=32</link>
+<guid isPermaLink="false">3bd1afea3c81a432</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 6300 BLOCK N 22ND ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=53</link>
+<guid isPermaLink="false">68e3bbb2da58fe9d</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 900 BLOCK E HILLSBOROUGH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=59</link>
+<guid isPermaLink="false">eb4081e241a0ed7a</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — TAMPA PALMS BLVD W / BRUCE B DOWNS BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=225</link>
+<guid isPermaLink="false">bf4f7f452acffe01</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N 15TH ST / E LAKE AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=96</link>
+<guid isPermaLink="false">43e0cd5480d57b9e</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E 113TH AVE / N 50TH ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=8</link>
+<guid isPermaLink="false">0516eb6b5d8ed6af</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N 40TH ST / E REGNAS AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=40</link>
+<guid isPermaLink="false">36332356eb7c2c83</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E LAKE AVE / CONE CT</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=96</link>
+<guid isPermaLink="false">3b4203ebd71f4f2d</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 8000 BLOCK TAMPA PALMS BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=227</link>
+<guid isPermaLink="false">794a77520553f4f7</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] JUVENILE CURFEW LAW — 2200 BLOCK CORRINE ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=147</link>
+<guid isPermaLink="false">6083b8d4edfd69a5</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — TROUT CREEK DR / E COUNTY LINE RD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=247</link>
+<guid isPermaLink="false">4a31f643a8929f89</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 2900 BLOCK N 32ND ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=110</link>
+<guid isPermaLink="false">43e1aa2d92f4e182</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — 16100 BLOCK TAMPA PALMS BLVD W</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=233</link>
+<guid isPermaLink="false">7e1fb30d1d50ab38</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 2500 BLOCK E 12TH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=129</link>
+<guid isPermaLink="false">c48eb0145d43e815</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 10900 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=3</link>
+<guid isPermaLink="false">acd31187b79cc8f9</guid>
+<pubDate>Mon, 17 Aug 2026 00:57:10 +0000</pubDate>
+</item>
 <item>
 <title>[ABC Action News / Tampa Bay 28] News Tonight - Top Headlines and Weather for August 16</title>
 <link>https://www.tampabay28.com/news/local-news/news-tonight-top-headlines-and-weather-for-august-16</link>
@@ -783,440 +1211,5 @@
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=86</link>
 <guid isPermaLink="false">26a54b6bdeb84098</guid>
 <pubDate>Sun, 16 Aug 2026 21:42:57 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 16000 BLOCK TAMPA PALMS BLVD W</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=233</link>
-<guid isPermaLink="false">f5951dbae079e38d</guid>
-<pubDate>Sun, 16 Aug 2026 21:42:57 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 300 BLOCK WESTSHORE PLZ</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=149</link>
-<guid isPermaLink="false">544b24e2085a2aab</guid>
-<pubDate>Sun, 16 Aug 2026 21:42:57 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — E BUSCH BLVD / N 30TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=31</link>
-<guid isPermaLink="false">558270a52961321b</guid>
-<pubDate>Sun, 16 Aug 2026 21:42:57 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — E 26TH AVE / N 10TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=107</link>
-<guid isPermaLink="false">3e66a8db5c7aa46a</guid>
-<pubDate>Sun, 16 Aug 2026 21:42:57 +0000</pubDate>
-</item>
-<item>
-<title>[ABC Action News / Tampa Bay 28] Clearwater house fire under investigation after man injured</title>
-<link>https://www.tampabay28.com/news/region-pinellas/clearwater-house-fire-under-investigation-after-man-injured</link>
-<description>Fire crews responded to a house fire in Clearwater after smoke was seen coming from a home, and one man required medical treatment.</description>
-<guid isPermaLink="false">9f78b9d5846a4ff5</guid>
-<pubDate>Sun, 16 Aug 2026 21:07:00 GMT</pubDate>
-</item>
-<item>
-<title>[ABC7 Suncoast (WWSB)] Manatee County Sheriff’s Office announces off-duty death of Sgt. Corey Griffin</title>
-<link>https://www.mysuncoast.com/2026/08/16/manatee-county-sheriffs-office-announces-off-duty-death-sgt-corey-griffin/</link>
-<guid isPermaLink="false">07bfd40c07c5886f</guid>
-<pubDate>Sun, 16 Aug 2026 21:14:44 +0000</pubDate>
-</item>
-<item>
-<title>[BREAKING] [ABC7 Suncoast (WWSB)] BREAKING: MLB legend Tommy John dies at his Bradenton home at 83</title>
-<link>https://www.mysuncoast.com/2026/08/16/mlb-legend-tommy-john-dies-his-bradenton-home-83/</link>
-<guid isPermaLink="false">2924ad557205ea37</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] HIT AND RUN — 5119 N NEBRASKA AVE</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=510644&amp;Y=1330645</link>
-<description>8/16/2026 3:23:01 PM</description>
-<guid isPermaLink="false">af0a36e4710de8f0</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 1500 BLOCK N DALE MABRY HWY</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=121</link>
-<guid isPermaLink="false">c126fa532dacd1cd</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 5000 BLOCK W KENNEDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=149</link>
-<guid isPermaLink="false">b09c3b7a7559621f</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] LOST/FOUND PROPERTY — 500 BLOCK WATER ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=145</link>
-<guid isPermaLink="false">0ba6aa73968d71bc</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BOATING VIOLATION — 100 BLOCK COLUMBIA DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=133</link>
-<guid isPermaLink="false">1da6ce7c0766ab05</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — 3400 BLOCK W HILLSBOROUGH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=65</link>
-<guid isPermaLink="false">6870c5228781ea95</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — 3700 BLOCK MIDTOWN DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=136</link>
-<guid isPermaLink="false">52a5f8e94d661e16</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 5000 BLOCK E BUSCH BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=33</link>
-<guid isPermaLink="false">c7be5e6e3052469f</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] FIGHT — 700 BLOCK N FRANKLIN ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=143</link>
-<guid isPermaLink="false">7c9f3b5c8ea352a5</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 2300 BLOCK E BUSCH BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=22</link>
-<guid isPermaLink="false">929069bebca406ca</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BOATING VIOLATION — 100 BLOCK COLUMBIA DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=133</link>
-<guid isPermaLink="false">991a25cc5e6d6a15</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 2600 BLOCK N 40TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=111</link>
-<guid isPermaLink="false">bf337276141fe2c3</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — 1100 BLOCK E BUSCH BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=20</link>
-<guid isPermaLink="false">ad625ec098105b79</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — 3600 BLOCK E GENESEE ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=86</link>
-<guid isPermaLink="false">c8d47f7d059d2995</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 10400 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=12</link>
-<guid isPermaLink="false">36f6a6b0c8f734ab</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] STREET OBSTRUCTION — N 13TH ST / E COMANCHE AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=59</link>
-<guid isPermaLink="false">1fc69f695d618f0e</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E JACKSON ST / N MARION ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=144</link>
-<guid isPermaLink="false">8368b4c707e2f110</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — E 26TH AVE / N 10TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=107</link>
-<guid isPermaLink="false">4f8363f6bad5c134</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] CRIMINAL MISCHIEF — 1300 BLOCK E 33RD AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=96</link>
-<guid isPermaLink="false">5d5f5b998e02e604</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 3800 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=96</link>
-<guid isPermaLink="false">0bb2173aba3b05bf</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 300 BLOCK S WILLOW AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=161</link>
-<guid isPermaLink="false">13b2b74b67d5ccf3</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — W MAIN ST / N FREMONT AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=123</link>
-<guid isPermaLink="false">26f2764ef38fcc5b</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISABLED VEHICLE — N FLORIDA AVE / W BUSCH BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=27</link>
-<guid isPermaLink="false">f0eb9cb172a3bd84</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 8800 BLOCK CRESTVIEW DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=25</link>
-<guid isPermaLink="false">abc7bd856c76830e</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 2900 BLOCK N 50TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=111</link>
-<guid isPermaLink="false">9c0322ab1a255165</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — N 50TH ST / ADAMO DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=131</link>
-<guid isPermaLink="false">8ec86d03a8bd5917</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 7000 BLOCK INTERBAY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=196</link>
-<guid isPermaLink="false">e4376ddc6280a2f1</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — HIGHWOODS PRESERVE PKWY / BRUCE B DOWNS BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=240</link>
-<guid isPermaLink="false">bcd46102e4becd7e</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — E BUSCH BLVD / I275 N BUSCH RAMP</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=28</link>
-<guid isPermaLink="false">16747145375e2c64</guid>
-<pubDate>Sun, 16 Aug 2026 20:45:36 +0000</pubDate>
-</item>
-<item>
-<title>[ABC Action News / Tampa Bay 28] Legoland Florida reopens 'Coastersaurus' wooden roller coaster on National Roller Coaster Day</title>
-<link>https://www.tampabay28.com/news/region-polk/legoland-florida-reopens-coastersaurus-wooden-roller-coaster-on-national-roller-coaster-day</link>
-<description>Legoland Florida is celebrating National Roller Coaster Day by reopening the Coastersaurus, which the park calls the only fully wooden roller coaster in Florida, after months of renovations.</description>
-<guid isPermaLink="false">af7b7502a9cda3cb</guid>
-<pubDate>Sun, 16 Aug 2026 19:49:41 GMT</pubDate>
-</item>
-<item>
-<title>[FOX 13 Tampa Bay] Professional Santas, Mrs. Clauses gather in Tarpon Springs for annual workshop</title>
-<link>https://www.fox13news.com/news/professional-santa-mrs-clause-tarpon-springs-workshop</link>
-<description>More than 80 professional Santas and Mrs. Clauses attended the Palm Tree Santas Workshop in Tarpon Springs. The event featured out-of-state instructors who provided training on photo sessions, hospital visits and different types of environments.</description>
-<guid isPermaLink="false">23239795caeb2b7a</guid>
-<pubDate>Sun, 16 Aug 2026 19:28:26 GMT</pubDate>
-</item>
-<item>
-<title>[BREAKING] [ABC7 Suncoast (WWSB)] BREAKING: Water main break closes 9th Avenue West in Bradenton</title>
-<link>https://www.mysuncoast.com/2026/08/16/water-main-break-closes-9th-avenue-west-bradenton/</link>
-<guid isPermaLink="false">969d25346b3807ac</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[ABC7 Suncoast (WWSB)] Woman accused in deadly Bradenton hit-and-run scheduled for arraignment</title>
-<link>https://www.mysuncoast.com/2026/08/16/woman-accused-deadly-bradenton-hit-and-run-scheduled-arraignment/</link>
-<guid isPermaLink="false">66d360edf5235483</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] HIT AND RUN — 1002 SEVERN AVE</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=510742&amp;Y=1300657</link>
-<description>8/16/2026 1:49:49 PM</description>
-<guid isPermaLink="false">add12b20570cb7bb</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 4500 BLOCK W GANDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=183</link>
-<guid isPermaLink="false">d276430a7e6c57c9</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] AUTO BURGLARY — 1000 BLOCK W KENNEDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=161</link>
-<guid isPermaLink="false">4c72ba117e42ff84</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 6400 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=52</link>
-<guid isPermaLink="false">0afbbefcfcba3333</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] HIT AND RUN — 8400 BLOCK RIO BRAVO CT</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=33</link>
-<guid isPermaLink="false">bb8c55d9f4de80cb</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] AIDED CASE — GRID ONLY</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=12</link>
-<guid isPermaLink="false">b827072e33e1e169</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — I275 / EXIT 44 I275 N ASHLEY DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=125</link>
-<guid isPermaLink="false">8d7dca4909988fab</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E 10TH AVE / N WHITTIER ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=132</link>
-<guid isPermaLink="false">4257b5c0d1bf96f2</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] SUSPICIOUS PERSON — 1400 BLOCK W KENNEDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=161</link>
-<guid isPermaLink="false">b0d16526d4c44b3b</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 900 BLOCK E 28TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=96</link>
-<guid isPermaLink="false">ccd2edb6800eecaf</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 10300 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=12</link>
-<guid isPermaLink="false">7221e965e8e23463</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] HIT AND RUN — N FLORIDA AVE / W ELM ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=50</link>
-<guid isPermaLink="false">4cef86d8260cc90d</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 900 BLOCK E 26TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=107</link>
-<guid isPermaLink="false">7eb0d6498e3c920e</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 10100 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=11</link>
-<guid isPermaLink="false">fd25cfd01fbdb946</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISABLED VEHICLE — W SLIGH AVE / N HIGHLAND AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=50</link>
-<guid isPermaLink="false">a032544ee1b84f54</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] ABANDONED VEHICLE — 1900 BLOCK W MAIN ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=123</link>
-<guid isPermaLink="false">c9ab2bc12a077fd0</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 400 BLOCK E 7TH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=116</link>
-<guid isPermaLink="false">445bf628a9adfa98</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 15300 BLOCK AMBERLY DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=222</link>
-<guid isPermaLink="false">c9331416f2254a03</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] SUSPICIOUS PERSON — 1800 BLOCK N 50TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=131</link>
-<guid isPermaLink="false">18e4756d2e2e71be</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] HIT AND RUN — 4900 BLOCK W KENNEDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=149</link>
-<guid isPermaLink="false">2ea4c999c5698eb9</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — 5300 BLOCK N FLORIDA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=69</link>
-<guid isPermaLink="false">73d500548fd18b91</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] OFFENSES AGST FAMILY — GRID ONLY</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=93</link>
-<guid isPermaLink="false">18ab680235d3931d</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 1900 BLOCK N DALE MABRY HWY</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=120</link>
-<guid isPermaLink="false">74ebceb6f7d963af</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 8600 BLOCK N 37TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=32</link>
-<guid isPermaLink="false">e0273249852f99df</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 0 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=107</link>
-<guid isPermaLink="false">fe2986cc8813cb3a</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 10400 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=11</link>
-<guid isPermaLink="false">1af1e1ab25af115d</guid>
-<pubDate>Sun, 16 Aug 2026 20:15:30 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — N NEBRASKA AVE / E HILLSBOROUGH AVE</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=510582&amp;Y=1331545</link>
-<description>8/16/2026 2:37:21 PM</description>
-<guid isPermaLink="false">3eeca56203d1f1ce</guid>
-<pubDate>Sun, 16 Aug 2026 19:42:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] HIT AND RUN — E HILLSBOROUGH AVE / N 11TH ST</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=511628&amp;Y=1331540</link>
-<description>8/16/2026 2:37:03 PM</description>
-<guid isPermaLink="false">8be4e0edfa264bdb</guid>
-<pubDate>Sun, 16 Aug 2026 19:42:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] HIT AND RUN — 2104 W COOL SPRINGS RD [BLDG 9]</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=500873&amp;Y=1342837</link>
-<description>8/16/2026 1:47:41 PM</description>
-<guid isPermaLink="false">1c653fd93bb3770d</guid>
-<pubDate>Sun, 16 Aug 2026 19:42:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — E BUSCH BLVD / N NEBRASKA AVE</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=510591&amp;Y=1344919</link>
-<description>8/16/2026 1:42:50 PM</description>
-<guid isPermaLink="false">5d74866939e137c1</guid>
-<pubDate>Sun, 16 Aug 2026 19:42:22 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 5200 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=71</link>
-<guid isPermaLink="false">df03698f038633cf</guid>
-<pubDate>Sun, 16 Aug 2026 19:42:22 +0000</pubDate>
 </item>
 </channel></rss>
