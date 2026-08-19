@@ -3,7 +3,37 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Wed, 19 Aug 2026 05:54:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 06:35:00 +0000</lastBuildDate>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MENTALLY ILL PERSON — GRID ONLY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=124</link>
+<guid isPermaLink="false">4f068ef3c740995f</guid>
+<pubDate>Wed, 19 Aug 2026 06:35:00 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 11600 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=4</link>
+<guid isPermaLink="false">a9008f39fb7b2d1a</guid>
+<pubDate>Wed, 19 Aug 2026 06:35:00 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E BUSCH BLVD / N CONNECHUSETT RD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=33</link>
+<guid isPermaLink="false">3be0741aeb810d25</guid>
+<pubDate>Wed, 19 Aug 2026 06:35:00 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] SUSPICIOUS VEHICLE — N 26TH ST / E 38TH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=85</link>
+<guid isPermaLink="false">d5f340ac76c00596</guid>
+<pubDate>Wed, 19 Aug 2026 06:35:00 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 3400 BLOCK E LAKE AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=99</link>
+<guid isPermaLink="false">45f261818066d6e6</guid>
+<pubDate>Wed, 19 Aug 2026 06:35:00 +0000</pubDate>
+</item>
 <item>
 <title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 4500 BLOCK W GANDY BLVD</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=183</link>
@@ -1181,36 +1211,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 2500 BLOCK N 50TH ST</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=131</link>
 <guid isPermaLink="false">017bc32ee8c64f0c</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — E WHITING ST / N TAMPA ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=144</link>
-<guid isPermaLink="false">7495e38c13056d47</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 3900 BLOCK HENDERSON BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=164</link>
-<guid isPermaLink="false">7487889ebc5e1660</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N 30TH ST / E KNOLLWOOD ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=54</link>
-<guid isPermaLink="false">4770a13119493fb6</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] ASSAULT/BATTERY — 3000 BLOCK W DR MARTIN LUTHER KING JR BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=78</link>
-<guid isPermaLink="false">0c164b5506334bff</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 10200 BLOCK N BOULEVARD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=10</link>
-<guid isPermaLink="false">b9252b86b91f9097</guid>
 <pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
 </item>
 </channel></rss>
