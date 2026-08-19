@@ -3,7 +3,42 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Wed, 19 Aug 2026 21:20:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 21:49:13 +0000</lastBuildDate>
+<item>
+<title>[ABC Action News / Tampa Bay 28] Interactive: A cancer vaccine is being tailored to individuals</title>
+<link>https://www.tampabay28.com/health/interactive-a-cancer-vaccine-is-being-tailored-to-individuals</link>
+<description>Moderna and Merck say their personalized mRNA therapy showed positive results in a major Phase 3 trial — potentially changing how America treats one of its deadliest skin cancers.</description>
+<guid isPermaLink="false">6b33ca51f9a0bda5</guid>
+<pubDate>Wed, 19 Aug 2026 21:28:25 GMT</pubDate>
+</item>
+<item>
+<title>[ABC Action News / Tampa Bay 28] Judge appoints independent monitors to examine for-profit ICE lockup where children are held</title>
+<link>https://www.tampabay28.com/investigations/ice-inc/judge-appoints-independent-monitors-to-examine-for-profit-ice-lockup-where-children-are-held</link>
+<description>For the first time since last year, independent monitors will have direct access to a for-profit immigration detention center where families with babies and children have been detained by ICE.</description>
+<guid isPermaLink="false">99f835341ec13001</guid>
+<pubDate>Wed, 19 Aug 2026 21:19:15 GMT</pubDate>
+</item>
+<item>
+<title>[FOX 13 Tampa Bay] Tarpon Springs industrial accident: Family remembers Army veteran</title>
+<link>https://www.fox13news.com/news/tarpon-springs-industrial-accident-family-remembers-army-veteran</link>
+<description>Family members are mourning the loss of a 36-year-old father and U.S. Army veteran who died following an industrial accident at a Tarpon Springs asphalt company earlier this month.</description>
+<guid isPermaLink="false">c0f3c4288ad2da35</guid>
+<pubDate>Wed, 19 Aug 2026 21:32:55 GMT</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] HIT AND RUN — 3800 W HILLSBOROUGH AVE</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=492671&amp;Y=1331050</link>
+<description>8/19/2026 3:32:43 PM</description>
+<guid isPermaLink="false">c0288cfec2b7cbed</guid>
+<pubDate>Wed, 19 Aug 2026 21:49:13 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — 2601 E HILLSBOROUGH AVE</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=517272&amp;Y=1331406</link>
+<description>8/19/2026 2:52:51 PM</description>
+<guid isPermaLink="false">aaa24361d2536511</guid>
+<pubDate>Wed, 19 Aug 2026 21:49:13 +0000</pubDate>
+</item>
 <item>
 <title>[ABC Action News / Tampa Bay 28] Polk County Fire Rescue chaplain dies in crash while checking on crews</title>
 <link>https://www.tampabay28.com/news/region-polk/polk-county-fire-rescue-chaplain-dies-in-crash-while-checking-on-crews</link>
@@ -1203,36 +1238,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 2300 BLOCK W LINEBAUGH AVE</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=16</link>
 <guid isPermaLink="false">ff0a56fa8e637953</guid>
-<pubDate>Wed, 19 Aug 2026 19:02:39 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 17000 BLOCK PALM POINTE DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=237</link>
-<guid isPermaLink="false">35f7ed7564e55e6a</guid>
-<pubDate>Wed, 19 Aug 2026 19:02:39 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 3300 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=95</link>
-<guid isPermaLink="false">bfa5802de0208646</guid>
-<pubDate>Wed, 19 Aug 2026 19:02:39 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 3100 BLOCK W EUCLID AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=179</link>
-<guid isPermaLink="false">384c84204ae44075</guid>
-<pubDate>Wed, 19 Aug 2026 19:02:39 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 4100 BLOCK W GANDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=184</link>
-<guid isPermaLink="false">3376a2147e439c23</guid>
-<pubDate>Wed, 19 Aug 2026 19:02:39 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — S WEST SHORE BLVD / W FIELDER ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=183</link>
-<guid isPermaLink="false">e8bc5774ee2f1c95</guid>
 <pubDate>Wed, 19 Aug 2026 19:02:39 +0000</pubDate>
 </item>
 </channel></rss>
