@@ -3,7 +3,43 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Wed, 19 Aug 2026 09:27:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 09:58:33 +0000</lastBuildDate>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 1700 BLOCK E POINSETTIA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=13</link>
+<guid isPermaLink="false">e277beded2bd899a</guid>
+<pubDate>Wed, 19 Aug 2026 09:58:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] CRIMINAL MISCHIEF — 2600 BLOCK E 25TH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=109</link>
+<guid isPermaLink="false">fa57c7f102dcff84</guid>
+<pubDate>Wed, 19 Aug 2026 09:58:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 400 BLOCK E SLIGH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=51</link>
+<guid isPermaLink="false">b04a0ff7cbdb91d9</guid>
+<pubDate>Wed, 19 Aug 2026 09:58:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 800 BLOCK E MCEWEN AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=11</link>
+<guid isPermaLink="false">77365c3ca38a8711</guid>
+<pubDate>Wed, 19 Aug 2026 09:58:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 3000 BLOCK E HILLSBOROUGH AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=74</link>
+<guid isPermaLink="false">24397610349302b5</guid>
+<pubDate>Wed, 19 Aug 2026 09:58:33 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 10900 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=3</link>
+<guid isPermaLink="false">40dec9373b886cde</guid>
+<pubDate>Wed, 19 Aug 2026 09:58:33 +0000</pubDate>
+</item>
 <item>
 <title>[ABC Action News / Tampa Bay 28] Victim outsmarts thief to retrieve stolen $600 Bluetooth speaker: WHPD</title>
 <link>https://www.tampabay28.com/news/region-polk/victim-outsmarts-thief-to-retrieve-stolen-600-bluetooth-speaker-whpd</link>
@@ -1176,42 +1212,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N NEBRASKA AVE / E 109TH AVE</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=11</link>
 <guid isPermaLink="false">81a818e8e598f00d</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 10200 BLOCK N VALLE DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=9</link>
-<guid isPermaLink="false">6d3f2d1cf185c9b9</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 10400 BLOCK N NEBRASKA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=11</link>
-<guid isPermaLink="false">4527002acd664202</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E 26TH AVE / N 29TH ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=109</link>
-<guid isPermaLink="false">a03470be3a1e1def</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N NEBRASKA AVE / E KIRBY ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
-<guid isPermaLink="false">b3cc80affa07f51d</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — 900 BLOCK E GIDDENS AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=71</link>
-<guid isPermaLink="false">931ebb40b31cc4a6</guid>
-<pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] JUVENILE CURFEW LAW — 200 BLOCK E PATTERSON ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
-<guid isPermaLink="false">d1f567ce5e20e7d2</guid>
 <pubDate>Wed, 19 Aug 2026 02:17:23 +0000</pubDate>
 </item>
 </channel></rss>
