@@ -3,7 +3,62 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sat, 22 Aug 2026 08:22:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 08:55:31 +0000</lastBuildDate>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Hot and Humid Saturday</title>
+<link>https://www.mysuncoast.com/2026/08/22/hot-humid-saturday/</link>
+<guid isPermaLink="false">4f4a7fe76cef1a6a</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Beach &amp; Boating Forecast Saturday</title>
+<link>https://www.mysuncoast.com/2026/08/22/beach-boating-forecast-saturday/</link>
+<guid isPermaLink="false">b4744db030c91003</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
+<item>
+<title>[ABC7 Suncoast (WWSB)] Farmers Markets Saturday Forecast</title>
+<link>https://www.mysuncoast.com/2026/08/22/farmers-markets-saturday-forecast/</link>
+<guid isPermaLink="false">6ecaf32b9b6ef460</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — W GANDY BLVD / S MANHATTAN AVE</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=488714&amp;Y=1294359</link>
+<description>8/22/2026 3:37:35 AM</description>
+<guid isPermaLink="false">8943dd831e92e91d</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 6400 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=52</link>
+<guid isPermaLink="false">68d3ca36f5335dd9</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 6500 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=52</link>
+<guid isPermaLink="false">4f55e9dcdcd5f22e</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 6900 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=44</link>
+<guid isPermaLink="false">771c8bb85de89d86</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 5300 BLOCK W TYSON AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=186</link>
+<guid isPermaLink="false">f872648c58c30258</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] LOST/FOUND PROPERTY — I275 / N HOWARD AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=138</link>
+<guid isPermaLink="false">91a0660084f3c9e9</guid>
+<pubDate>Sat, 22 Aug 2026 08:55:31 +0000</pubDate>
+</item>
 <item>
 <title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 6900 BLOCK N NEBRASKA AVE</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=45</link>
@@ -1153,61 +1208,5 @@
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=12</link>
 <guid isPermaLink="false">0b8a8117136078bc</guid>
 <pubDate>Sat, 22 Aug 2026 04:03:51 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — 5100 BLOCK POINTE OF TAMPA WAY</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=237</link>
-<guid isPermaLink="false">6919acfefc15ea52</guid>
-<pubDate>Sat, 22 Aug 2026 04:03:51 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 11100 BLOCK N 22ND ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=5</link>
-<guid isPermaLink="false">16e23796a7d14920</guid>
-<pubDate>Sat, 22 Aug 2026 04:03:51 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — SELMON EXPY / S WILLOW AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=161</link>
-<guid isPermaLink="false">1400d11d33de403f</guid>
-<pubDate>Sat, 22 Aug 2026 04:03:51 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — 2700 BLOCK E FOWLER AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=6</link>
-<guid isPermaLink="false">7a9e51fd3913de7e</guid>
-<pubDate>Sat, 22 Aug 2026 04:03:51 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 4900 BLOCK E BUSCH BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=24</link>
-<guid isPermaLink="false">026abc61d9dca35e</guid>
-<pubDate>Sat, 22 Aug 2026 04:03:51 +0000</pubDate>
-</item>
-<item>
-<title>[FOX 13 Tampa Bay] Oldsmar mother celebrates PCOS name change, doctors explain what it means for women</title>
-<link>https://www.fox13news.com/news/oldsmar-mother-celebrates-pcos-name-change-doctors-explain-what-means-women</link>
-<description>An Oldsmar mother who sought fertility treatments is highlighting a common hormonal disorder after discovering she had the condition long known as polycystic ovarian syndrome, or PCOS.</description>
-<guid isPermaLink="false">abb45b51941c1b57</guid>
-<pubDate>Sat, 22 Aug 2026 02:39:09 GMT</pubDate>
-</item>
-<item>
-<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — S MACDILL AVE / W GANDY BLVD</title>
-<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=496648&amp;Y=1294374</link>
-<description>8/21/2026 9:37:17 PM</description>
-<guid isPermaLink="false">9ea338e8fc96350f</guid>
-<pubDate>Sat, 22 Aug 2026 03:13:25 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — CHANNELSIDE DR / E KENNEDY BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=145</link>
-<guid isPermaLink="false">3c4474402aff711f</guid>
-<pubDate>Sat, 22 Aug 2026 03:13:25 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — W PLATT ST / S WESTLAND AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=160</link>
-<guid isPermaLink="false">9a700664e795f1df</guid>
-<pubDate>Sat, 22 Aug 2026 03:13:25 +0000</pubDate>
 </item>
 </channel></rss>
