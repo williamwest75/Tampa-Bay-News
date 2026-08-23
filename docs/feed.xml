@@ -3,7 +3,42 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sun, 23 Aug 2026 21:16:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 21:44:01 +0000</lastBuildDate>
+<item>
+<title>[WFLA News Channel 8] Pressure mounts on Ethics Committee to speed up misconduct probes as midterms loom</title>
+<link>https://www.wfla.com/hill-politics/pressure-mounts-on-ethics-committee-to-speed-up-misconduct-probes-as-midterms-loom/</link>
+<description>Democrats and Republicans are pressing the House Ethics Committee to move more quickly on investigations involving allegations of sexual misconduct or domestic abuse, as a string of high-profile cases and the looming midterms have renewed scrutiny of the secretive panel’s process. Investigations into Reps. Jimmy Gomez (D-Calif.), Cory Mills (R-Fla.) and Max Miller (R-Ohio) — [...]</description>
+<guid isPermaLink="false">658c370bb362de6b</guid>
+<pubDate>Sun, 23 Aug 2026 21:01:29 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] HIT AND RUN — 2503 N TAMPA ST</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=507416&amp;Y=1320643</link>
+<description>8/23/2026 4:38:19 PM</description>
+<guid isPermaLink="false">ecc4748f269c6e9d</guid>
+<pubDate>Sun, 23 Aug 2026 21:44:01 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — INTERBAY BLVD / S WEST SHORE BLVD</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=485907&amp;Y=1284334</link>
+<description>8/23/2026 4:38:05 PM</description>
+<guid isPermaLink="false">47bf2873f61d9b7e</guid>
+<pubDate>Sun, 23 Aug 2026 21:44:01 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — N ARMENIA AVE / W VIOLET ST</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=499798&amp;Y=1329584</link>
+<description>8/23/2026 4:03:57 PM</description>
+<guid isPermaLink="false">959fd85d5d5153d7</guid>
+<pubDate>Sun, 23 Aug 2026 21:44:01 +0000</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — S DALE MABRY HWY / W PLATT ST</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=492890&amp;Y=1311989</link>
+<description>8/23/2026 3:55:39 PM</description>
+<guid isPermaLink="false">3bbd08cd753fe327</guid>
+<pubDate>Sun, 23 Aug 2026 21:44:01 +0000</pubDate>
+</item>
 <item>
 <title>[FOX 13 Tampa Bay] Ukrainian Independence Day marked with liturgy and traditions in St. Petersburg</title>
 <link>https://www.fox13news.com/news/ukrainian-independence-day-liturgy-traditions-st-petersburg</link>
@@ -1197,36 +1232,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] RECKLESS DRIVING — BRUCE B DOWNS BLVD / PEBBLE CREEK DR</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=245</link>
 <guid isPermaLink="false">704db0a2d6b0b9b0</guid>
-<pubDate>Sun, 23 Aug 2026 17:16:29 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 1000 BLOCK E BOUGAINVILLEA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=12</link>
-<guid isPermaLink="false">d3e7d660a9b8b64b</guid>
-<pubDate>Sun, 23 Aug 2026 17:16:29 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISABLED VEHICLE — BRUCE B DOWNS BLVD / I75 N BB DOWNS RAMP</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=240</link>
-<guid isPermaLink="false">4cc1eaec1d070153</guid>
-<pubDate>Sun, 23 Aug 2026 17:16:29 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — 4400 BLOCK W CYPRESS ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=119</link>
-<guid isPermaLink="false">60c9008fa53fb922</guid>
-<pubDate>Sun, 23 Aug 2026 17:16:29 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 8800 BLOCK N FLORIDA AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=28</link>
-<guid isPermaLink="false">1335e81ddff001b3</guid>
-<pubDate>Sun, 23 Aug 2026 17:16:29 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — S DALE MABRY HWY / W WYOMING AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=191</link>
-<guid isPermaLink="false">fdfcd20e28ca6b82</guid>
 <pubDate>Sun, 23 Aug 2026 17:16:29 +0000</pubDate>
 </item>
 </channel></rss>
