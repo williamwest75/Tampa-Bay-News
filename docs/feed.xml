@@ -3,7 +3,21 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Sun, 23 Aug 2026 16:18:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 16:49:50 +0000</lastBuildDate>
+<item>
+<title>[ABC Action News / Tampa Bay 28] Pinellas detectives investigating St. Pete police use-of-force death during welfare check: PCSO</title>
+<link>https://www.tampabay28.com/news/region-pinellas/pinellas-detectives-investigating-st-pete-police-use-of-force-death-during-welfare-check-pcso</link>
+<description>Detectives are investigating the death of a man following a confrontation with St. Petersburg police officers during a welfare check on Saturday, according to the Pinellas County Sheriff's Office.</description>
+<guid isPermaLink="false">7a8e7e3ef8e5ce6b</guid>
+<pubDate>Sun, 23 Aug 2026 16:14:17 GMT</pubDate>
+</item>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — N 22ND ST / CORRINE ST</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=515826&amp;Y=1314300</link>
+<description>8/23/2026 11:33:46 AM</description>
+<guid isPermaLink="false">8ee137e7f2985a83</guid>
+<pubDate>Sun, 23 Aug 2026 16:49:50 +0000</pubDate>
+</item>
 <item>
 <title>[ABC Action News / Tampa Bay 28] Teen arrested after fleeing trooper during traffic stop in Pasco County: FHP</title>
 <link>https://www.tampabay28.com/news/region-pasco/teen-arrested-after-fleeing-trooper-during-traffic-stop-in-pasco-county-fhp</link>
@@ -1201,18 +1215,6 @@
 <link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=526338&amp;Y=1318247</link>
 <description>8/23/2026 4:31:58 AM</description>
 <guid isPermaLink="false">a2e5cc4b4897b69f</guid>
-<pubDate>Sun, 23 Aug 2026 10:18:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — N HIGHLAND AVE / W DR MARTIN LUTHER KING JR BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=94</link>
-<guid isPermaLink="false">ddaa8550c7f4e62d</guid>
-<pubDate>Sun, 23 Aug 2026 10:18:05 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISABLED VEHICLE — N 22ND ST / SELMON EXPY</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=146</link>
-<guid isPermaLink="false">7d889c888b02ec47</guid>
 <pubDate>Sun, 23 Aug 2026 10:18:05 +0000</pubDate>
 </item>
 </channel></rss>

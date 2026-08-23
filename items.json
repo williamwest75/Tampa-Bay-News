@@ -1,5 +1,33 @@
 [
  {
+  "key": "8ee137e7f2985a83",
+  "title": "TRAFFIC CRASH \u2014 N 22ND ST / CORRINE ST",
+  "link": "https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=515826&Y=1314300",
+  "summary": "8/23/2026 11:33:46 AM",
+  "source": "Tampa Police \u2014 Traffic Calls",
+  "section": "cad",
+  "tag": "[TPD TRAFFIC]",
+  "watchlist_hits": [],
+  "breaking": false,
+  "images": [],
+  "first_seen": "2026-08-23T16:49:50.522798+00:00",
+  "published": ""
+ },
+ {
+  "key": "7a8e7e3ef8e5ce6b",
+  "title": "Pinellas detectives investigating St. Pete police use-of-force death during welfare check: PCSO",
+  "link": "https://www.tampabay28.com/news/region-pinellas/pinellas-detectives-investigating-st-pete-police-use-of-force-death-during-welfare-check-pcso",
+  "summary": "Detectives are investigating the death of a man following a confrontation with St. Petersburg police officers during a welfare check on Saturday, according to the Pinellas County Sheriff's Office.",
+  "source": "ABC Action News / Tampa Bay 28",
+  "section": "news",
+  "tag": "",
+  "watchlist_hits": [],
+  "breaking": false,
+  "images": [],
+  "first_seen": "2026-08-23T16:49:50.522798+00:00",
+  "published": "Sun, 23 Aug 2026 16:14:17 GMT"
+ },
+ {
   "key": "54caaf14829845b1",
   "title": "TRAFFIC CRASH \u2014 W HILLSBOROUGH AVE / N DALE MABRY HWY",
   "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=65",
@@ -6962,34 +6990,6 @@
  {
   "key": "b02076dbb405a649",
   "title": "VEHICLE STOP/TRAFFIC \u2014 E 5TH AVE / N 16TH ST",
-  "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128",
-  "summary": "",
-  "source": "Tampa Police \u2014 Calls For Service",
-  "section": "cad",
-  "tag": "[TPD]",
-  "watchlist_hits": [],
-  "breaking": false,
-  "images": [],
-  "first_seen": "2026-08-23T04:31:36.172764+00:00",
-  "published": ""
- },
- {
-  "key": "0ba44801e51472de",
-  "title": "VEHICLE STOP/TRAFFIC \u2014 W DR MARTIN LUTHER KING JR BLVD / N CHURCH AVE",
-  "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=89",
-  "summary": "",
-  "source": "Tampa Police \u2014 Calls For Service",
-  "section": "cad",
-  "tag": "[TPD]",
-  "watchlist_hits": [],
-  "breaking": false,
-  "images": [],
-  "first_seen": "2026-08-23T04:31:36.172764+00:00",
-  "published": ""
- },
- {
-  "key": "63e3a7fc238d7228",
-  "title": "VEHICLE STOP/TRAFFIC \u2014 N 16TH ST / E 6TH AVE",
   "link": "https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128",
   "summary": "",
   "source": "Tampa Police \u2014 Calls For Service",
