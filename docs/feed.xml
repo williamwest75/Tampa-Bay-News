@@ -3,7 +3,43 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Wed, 26 Aug 2026 05:28:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 06:00:57 +0000</lastBuildDate>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] SUSPICIOUS VEHICLE — 2100 BLOCK TWO LAKES RD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=25</link>
+<guid isPermaLink="false">e3579a0b7f1f29f0</guid>
+<pubDate>Wed, 26 Aug 2026 06:00:57 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 11300 BLOCK N NEBRASKA AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=4</link>
+<guid isPermaLink="false">d0ed54f904289ce1</guid>
+<pubDate>Wed, 26 Aug 2026 06:00:57 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 3700 BLOCK N 51ST ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=101</link>
+<guid isPermaLink="false">0d7153955440199a</guid>
+<pubDate>Wed, 26 Aug 2026 06:00:57 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] RESID/COMMERIAL ALARM — 5100 BLOCK W NASSAU ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=118</link>
+<guid isPermaLink="false">2d73f2d0783266ab</guid>
+<pubDate>Wed, 26 Aug 2026 06:00:57 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] TRAFFIC CRASH — I275 / E BUSCH BLVD</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=19</link>
+<guid isPermaLink="false">8ed56c5dee0af92c</guid>
+<pubDate>Wed, 26 Aug 2026 06:00:57 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N JEFFERSON ST / E FRANCES AVE</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=116</link>
+<guid isPermaLink="false">65132a77f19a8614</guid>
+<pubDate>Wed, 26 Aug 2026 06:00:57 +0000</pubDate>
+</item>
 <item>
 <title>[TPD] [Tampa Police — Calls For Service] SUSPICIOUS VEHICLE — 5000 BLOCK E BUSCH BLVD</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=24</link>
@@ -1182,42 +1218,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 8500 BLOCK N SEMMES ST</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=30</link>
 <guid isPermaLink="false">05e042bf51c3d380</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N 26TH ST / E BUSCH BLVD</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=31</link>
-<guid isPermaLink="false">90f95da3ad797f16</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 900 BLOCK E ANNIE ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=20</link>
-<guid isPermaLink="false">d8a3691cec60e26f</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] DISTURBANCE — 10900 BLOCK BOURBON CT</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=2</link>
-<guid isPermaLink="false">03196542794069d5</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — N NEBRASKA AVE / E SLIGH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=51</link>
-<guid isPermaLink="false">aee98d3d5b172f16</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 2400 BLOCK N RAMONA CIR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=22</link>
-<guid isPermaLink="false">fab2a2efa5555ec3</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] AGG ASSAULT/BATTERY — 3800 BLOCK E RIVER HILLS DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=40</link>
-<guid isPermaLink="false">e2153c3ad9603574</guid>
 <pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
 </item>
 </channel></rss>
