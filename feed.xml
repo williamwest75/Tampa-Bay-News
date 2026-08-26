@@ -3,7 +3,32 @@
 <title>Tampa Bay News Monitor</title>
 <link>https://github.com</link>
 <description>Press releases and breaking news, Tampa Bay</description>
-<lastBuildDate>Wed, 26 Aug 2026 07:23:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 08:06:32 +0000</lastBuildDate>
+<item>
+<title>[TPD TRAFFIC] [Tampa Police — Traffic Calls] TRAFFIC CRASH — 7650 W COURTNEY CAMPBELL CSWY</title>
+<link>https://apps.tampagov.net/MyGovtSvcs_WebApp/LayerParser.html?X=472997&amp;Y=1321081</link>
+<description>8/26/2026 2:15:21 AM</description>
+<guid isPermaLink="false">e4667bf8a73cf933</guid>
+<pubDate>Wed, 26 Aug 2026 08:06:32 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] BUILDING CHECK — 11600 BLOCK N 22ND ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=6</link>
+<guid isPermaLink="false">92f4dcaa80058b21</guid>
+<pubDate>Wed, 26 Aug 2026 08:06:32 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] INFORMATION — 7800 BLOCK W COURTNEY CAMPBELL CSWY</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=117</link>
+<guid isPermaLink="false">6b144bfe77d2c823</guid>
+<pubDate>Wed, 26 Aug 2026 08:06:32 +0000</pubDate>
+</item>
+<item>
+<title>[TPD] [Tampa Police — Calls For Service] MISDEMEANOR — E 5TH AVE / N 20TH ST</title>
+<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=128</link>
+<guid isPermaLink="false">58af39a9036dd34f</guid>
+<pubDate>Wed, 26 Aug 2026 08:06:32 +0000</pubDate>
+</item>
 <item>
 <title>[ABC Action News / Tampa Bay 28] Pinellas County car crash attorney sees rise in cases as school year begins</title>
 <link>https://www.tampabay28.com/news/region-pinellas/pinellas-county-car-crash-attorney-sees-rise-in-crashes-after-beginning-of-school-year</link>
@@ -1195,30 +1220,6 @@
 <title>[TPD] [Tampa Police — Calls For Service] DOMESTIC DISPUTE — 1500 BLOCK S LOIS AVE</title>
 <link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=169</link>
 <guid isPermaLink="false">20fbe4fab643ac64</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] SUSPICIOUS PERSON — 1700 BLOCK E GIDDENS AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=72</link>
-<guid isPermaLink="false">b7c6ddb7ee0b223d</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] PETTY THEFT — 2500 BLOCK E HILLSBOROUGH AVE</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=61</link>
-<guid isPermaLink="false">08b13d35343ada80</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] NATURE UNKNOWN — 3000 BLOCK N ROCKY POINT DR</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=117</link>
-<guid isPermaLink="false">9eba655fe0211b9d</guid>
-<pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
-</item>
-<item>
-<title>[TPD] [Tampa Police — Calls For Service] VEHICLE STOP/TRAFFIC — E SLIGH AVE / N 22ND ST</title>
-<link>https://ncapps.tampagov.net/CallsForService/TPD/GridMap?id=53</link>
-<guid isPermaLink="false">772edf206cb47896</guid>
 <pubDate>Wed, 26 Aug 2026 02:35:45 +0000</pubDate>
 </item>
 </channel></rss>
